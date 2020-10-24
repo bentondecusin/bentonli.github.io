@@ -1,4 +1,4 @@
-This tutorial teaches how how to code
+This tutorial teaches you how to code
 ```markdown
 /** 
  * Author: C. Y. Benton Li 
