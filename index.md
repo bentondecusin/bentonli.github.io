@@ -3,7 +3,7 @@ This tutorial teaches how how to code
 /** 
  * Author: C. Y. Benton Li 
  * Institution: Cornell University
- * Github: [https://github.com/bentondecusin](https://github.com/bentondecusin)
+ * Github: https://github.com/bentondecusin
  */
  
 if (crash()) {
