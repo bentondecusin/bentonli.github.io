@@ -1,5 +1,5 @@
 {
-  "homepage": "http://bentondecusin.github.io/",
+  "homepage": "http://bentondecusin.github.io/home",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
   "name": "bentondecusin.github.io",
